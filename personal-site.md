@@ -1,6 +1,6 @@
 layout: page
 title: "Jiaan's page"
-permalink: /about
+permalink: /about/
 
 
 This is some random test on the github pages.
